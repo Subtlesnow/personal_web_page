@@ -52,7 +52,7 @@ table {
   ========================================
 */
 body {
-  background: #B2BBC4;
+  background: #7F7F7F;
   color: #000;
   font: 300 16px/22px 'Nunito', "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -190,7 +190,7 @@ h5 {
 */
 
 a {
-  color: #000;
+  color: #E7BB41;
   text-decoration: none;
 }
 a:hover {
